@@ -10,8 +10,11 @@ public class GIT_PREP {
 	}
     public void ALain() {
 	
-}
-
+    }
+    public void ALsidm() {
+    	System.out.println("Siddhantham");
+    	
+    }
 	public static void main(String[] args) {
 		System.out.println("Jineeth in UAE");
 
