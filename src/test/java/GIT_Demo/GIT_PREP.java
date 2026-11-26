@@ -1,23 +1,12 @@
 package GIT_Demo;
 
+import org.testng.annotations.Test;
+
 public class GIT_PREP {
-	public void ALJIMI() {
-		System.out.println("aljimi");
-		
+	@Test
+	public void sidm() {
+		System.out.println("sidm now");
 	}
-    public void ALmakamI() {
-		
-	}
-    public void ALain() {
 	
-    }
-    public void ALsidm() {
-    	System.out.println("Siddhantham");
-    	
-    }
-	public static void main(String[] args) {
-		System.out.println("Jineeth in UAE");
-
-	}
-
+	
 }
